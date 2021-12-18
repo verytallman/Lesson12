@@ -5,7 +5,7 @@ public class Sedan extends Vehicle {
         super.makeVehicle("Sedan");
     }
 
-    @Override
+
     public void paintVehicle() {
 
     }

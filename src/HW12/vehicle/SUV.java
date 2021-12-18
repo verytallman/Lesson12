@@ -5,7 +5,7 @@ public class SUV extends Vehicle {
         super.makeVehicle("SUV");
     }
 
-    @Override
+
     public void paintVehicle() {
 
     }

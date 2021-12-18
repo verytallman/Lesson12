@@ -5,7 +5,6 @@ public class LongBus extends Vehicle {
         super.makeVehicle("Long Bus");
     }
 
-    @Override
     public void paintVehicle() {
 
     }
